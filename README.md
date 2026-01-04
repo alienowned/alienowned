@@ -19,4 +19,4 @@
  </p>
 <img width="2048" height="345" alt="image" src="https://github.com/user-attachments/assets/56e66a53-f875-4491-8574-c0cf3fd5b8f1" />
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31jvuht46d2f6ysn65ib3kujycdu&cover_image=true&theme=novatorem&show_offline=true&background_color=fe87a3&interchange=false&profanity=false&bar_color=fddbe7&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31jvuht46d2f6ysn65ib3kujycdu&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&profanity=false&bar_color=999999&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
