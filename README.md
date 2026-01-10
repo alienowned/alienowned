@@ -4,6 +4,7 @@
   <img src="https://komarev.com/ghpvc/?username=emuinsanity&color=C472A7&label=ibannies+!+♡+.&base=423"/>
     </p>
 <img width="2048" height="345" alt="image" src="https://github.com/user-attachments/assets/8965f912-ccb3-41a1-9df8-06417325b780" />
+<p align=middle> "이빨 사이 낀 ₛₚₐgₕₑₜₜᵢ 빼고 싶니? Bₒₙ ₐₚₚéₜᵢₜ, 그냥 포기해 어차피, ₑₐₜ ᵢₜ ᵤₚ, ₑₐₜ ᵢₜ, ₑₐₜ ᵢₜ ᵤₚ!"
 <p align="center"> <img width="735" height="665" alt="image" src="https://github.com/user-attachments/assets/f5a52915-6d0e-4e1d-9e5a-04799baad167" />
  </p>
   
