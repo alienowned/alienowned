@@ -6,7 +6,7 @@
 <p align="CENTER"> <img width="640" height="108" alt="image" src="https://github.com/user-attachments/assets/f547aba9-c6fb-494d-9732-d3f5b2c515c2" />
 </p>
 <p align=middle> "이빨 사이 낀 ₛₚₐgₕₑₜₜᵢ 빼고 싶니? Bₒₙ ₐₚₚéₜᵢₜ, 그냥 포기해 어차피, ₑₐₜ ᵢₜ ᵤₚ, ₑₐₜ ᵢₜ, ₑₐₜ ᵢₜ ᵤₚ!"
-<p align="center"> <img width="968" height="768" alt="image" src="https://github.com/user-attachments/assets/622f9ff8-5a97-4b3c-9199-7a69b8260b2f" />
+<p align="center"> <img width="700" height="800" alt="image" src="https://github.com/user-attachments/assets/622f9ff8-5a97-4b3c-9199-7a69b8260b2f" />
  </p>
   
 <p align = middle> <img width= "20" height= "20' alt="bear" src="https://tomomi.neocities.org/pixeles/95.gif" <ins>
