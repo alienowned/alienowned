@@ -1,5 +1,3 @@
-<p align="right"> <img width="200" height="400" alt="image" src="https://github.com/user-attachments/assets/b332a8ec-c5e2-455c-ab76-daf6e76a99c4" />
-</p>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=emuinsanity&color=F598B3&label=hjwtsmb?&base=423"/>
     </p>
@@ -27,6 +25,8 @@
    <a href="https://guns.lol/alienowned">guns.lol</a>
    <img width= "20" height= "20' alt="thing" src="https://tomomi.neocities.org/pixeles/226.gif" <ins>
  </p>
+<p align="right"> <img width="200" height="400" alt="image" src="https://github.com/user-attachments/assets/b332a8ec-c5e2-455c-ab76-daf6e76a99c4" />
+</p>
 <p align="CENTER"> <img width="640" height="108" alt="image" src="https://github.com/user-attachments/assets/96887434-fb9e-47f0-b083-ddd8f9b27ed6" />
 </p>
 <p align="center">
