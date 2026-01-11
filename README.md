@@ -3,11 +3,6 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=emuinsanity&color=F598B3&label=hjwtsmb?&base=423"/>
     </p>
-<p align="center">
-  <a href="https://github.com/kittinan/spotify-github-profile">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31jvuht46d2f6ysn65ib3kujycdu&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=true&profanity=false&bar_color=c472a7&bar_color_cover=false">
-  </a>
-</p>
 <p align="CENTER"> <img width="640" height="108" alt="image" src="https://github.com/user-attachments/assets/f547aba9-c6fb-494d-9732-d3f5b2c515c2" />
 </p>
 <p align=middle> "이빨 사이 낀 ₛₚₐgₕₑₜₜᵢ 빼고 싶니? Bₒₙ ₐₚₚéₜᵢₜ, 그냥 포기해 어차피, ₑₐₜ ᵢₜ ᵤₚ, ₑₐₜ ᵢₜ, ₑₐₜ ᵢₜ ᵤₚ!"
@@ -34,4 +29,8 @@
  </p>
 <p align="CENTER"> <img width="640" height="108" alt="image" src="https://github.com/user-attachments/assets/96887434-fb9e-47f0-b083-ddd8f9b27ed6" />
 </p>
-
+<p align="center">
+  <a href="https://github.com/kittinan/spotify-github-profile">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31jvuht46d2f6ysn65ib3kujycdu&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=true&profanity=false&bar_color=c472a7&bar_color_cover=false">
+  </a>
+</p>
